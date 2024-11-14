@@ -8,6 +8,7 @@
 <body>
     <h1>Este es el index de mi git</h1>
     <a href="prueba1.php">Enlace a prueba1</a>
+    <h2>Este es la segunda modificacion</h2>
     
 </body>
 </html>l
